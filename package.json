@@ -1,0 +1,22 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "заготовка для 2 дз",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "homework2"
+  ],
+  "author": "me and YandexPracticum",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
